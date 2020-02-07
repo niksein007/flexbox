@@ -26,9 +26,9 @@
     display: flex;
     height: 100vh;
     
-    /* align-items: stretch;
-    align-items: flex-start;
+    align-items: stretch;
+    /* align-items: flex-start;
     align-items: center;
-    align-items: flex-end; */
-    align-items: baseline;
+    align-items: flex-end; */ 
+    /* align-items: baseline; */
 }
