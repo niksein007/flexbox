@@ -21,3 +21,19 @@
 .box8 { background:#1e90ff;}
 .box9 { background:#c56cf0;}
 .box10 { background:#18dcff;}
+
+.container{
+    display: flex;
+    min-height: 100vh;
+    flex-wrap: wrap;
+    flex-direction: column;
+}
+.box{
+    color: white;
+    font-size: 100px;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    padding: 15px;
+
+
+}
